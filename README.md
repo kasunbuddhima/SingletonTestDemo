@@ -5,5 +5,5 @@ e.g. clipboard in windows and mobile devices
 
 A singleton class,
 
-Should be a private class
-provides a global access point to the class (private static)
+*Should be a private class
+*provides a global access point to the class (private static)
