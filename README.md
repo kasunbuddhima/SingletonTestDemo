@@ -3,8 +3,8 @@ Singleton design pattern is the simplest design pattern we can found. It allows 
 
 e.g. clipboard in windows and mobile devices
 
-A singleton class,
+### A singleton class,
 
-*Should be a private class.
+- Should be a private contructor.
 
-*provides a global access point to the class (private static).
+- provides a global access point to the class (private static).
